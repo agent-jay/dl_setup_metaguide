@@ -1,5 +1,9 @@
-#README- DEEP LEARNING ENVIRONMENT SETUP META-GUIDE
+#Deep learning environment setup metaguide
 
+Props to @[anujonthemove](https://github.com/anujonthemove) for helping me out when I
+was having trouble, I hope this document helps you as much.
+
+I encourage you to fork this repo and make your own additions.
 
 Below are notes and links to resources for setting up a deep learning
 environment on a PC/laptop with an NVIDIA GPU. This includes the following (in
