@@ -1,4 +1,4 @@
-#Deep learning environment setup metaguide
+# Deep learning environment setup metaguide
 
 Props to @[anujonthemove](https://github.com/anujonthemove) for helping me out when I
 was having trouble, I hope this document helps you as much.
@@ -25,7 +25,7 @@ very least cover common issues.
 The hardware I installed this on was laptop with an Intel i5 processor and 
 mobile GTX960 NVIDIA GPU, in general it's easier to install on a desktop.
 
-##Prerequisite:
+## Prerequisite:
 
 - Ubuntu 14.04 LTS(Long Term Support)- This is a solid, stable version of ubuntu
 and supported until 2019. You could try the more recent 16.04 LTS but it's
@@ -34,7 +34,7 @@ to fix issues that I ran into. I ended up downgrading to 14.04 and installation
 became far easier 
 - NVIDIA GPU 
 
-##Notes:
+## Notes:
 
 - IMO, getting the NVIDIA drivers to work are the hard part, the rest of them
   are are a breeze. CUDA and cuDNN just require downloading packages, copying
@@ -78,7 +78,7 @@ became far easier
   up to date with the latest releases of most packages (packages downloaded via
   pip are generally a few versions out of date)
 
-###Full installation instructions 
+### Full installation instructions 
 I haven't used these, you might get some mileage from them
 
 - <https://github.com/saiprashanths/dl-setup#basics>
